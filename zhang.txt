@@ -1,2 +1,2 @@
 eyi
-
+git remote add ssh address
